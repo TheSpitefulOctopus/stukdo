@@ -44,3 +44,6 @@ gem 'twitter-bootstrap-rails', :git => 'git://github.com/seyhunak/twitter-bootst
 
 # Install Font Awesome
 gem 'font-awesome-rails'
+
+# Install Simple Form
+gem 'simple_form'
