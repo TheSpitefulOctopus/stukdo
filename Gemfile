@@ -41,3 +41,6 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin]
 
 # Twitter bootstrap
 gem 'twitter-bootstrap-rails', :git => 'git://github.com/seyhunak/twitter-bootstrap-rails.git'
+
+# Install Font Awesome
+gem 'font-awesome-rails'
